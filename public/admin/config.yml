@@ -3,9 +3,9 @@
 
 backend:
   name: github
-  repo: Lukasz/astro-soap-shop # Placeholder - replace with your repository (e.g. username/repo)
+  repo: bezelon/zdjcia-w-kratke-site
   branch: main
-  base_url: https://astro-soap-shop.pages.dev # Placeholder - replace with your Cloudflare Pages URL
+  base_url: http://localhost:4325
   auth_endpoint: api/auth
 
 # Media folders
